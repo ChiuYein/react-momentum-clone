@@ -1,6 +1,6 @@
 # Momentum Clone using React
 
-This is the final project of Software Enginner Immersive Course in General Assembly. This application is build with [React](https://reactjs.org/).
+This is the final project of Software Enginner Immersive Course in General Assembly. This application is build with [React](https://reactjs.org/) and will update from time to time.
 
 ## About Momentum
 This project is inspire with the Google Chrome Extension named [Momentum](https://momentumdash.com/). It is a custom page that replace new tabs with a page that user can track todo's, check local weather and get inspired with daily photos and quotes. The purpose of this tool is to inspire productivity by helping to eliminate distraction and beat procrastination with todo reminders.
