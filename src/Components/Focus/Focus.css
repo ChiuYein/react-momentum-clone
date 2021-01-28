@@ -1,0 +1,78 @@
+.today-focus {
+    margin-top: 50px;
+    font-size: 2rem;
+}
+
+.add-main-task-container {
+    margin: -50px;
+}
+
+.main-task-container {
+    display:flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-task-form {
+    display: flex;
+    /* flex-flow: row nowrap; */
+    justify-content: space-around;
+    align-items: center;
+    padding: -1rem;   
+    color: rgb(256,256,256, 0.8);
+}
+
+.focus-question {
+    font-size: 1.5rem;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.focus-form-input {
+    border: none;
+    border-bottom: 2px solid rgb(256,256,256, 0.8);
+    font-size: 2rem;
+    text-align: center;
+    color: rgb(256,256,256, 0.8);
+    margin-bottom: 100px;
+    background: 0;
+}
+
+.focus-form-input:focus {
+    outline: none;
+    margin-top: 10px;
+}
+
+.focus-container {
+    /* position: absolute; */
+    bottom: 15%;
+    left:34%;
+    text-align: center;
+    color: rgb(256,256,256, 0.8);
+}
+
+.input[type=checkbox]:checked + label.completed {
+    text-decoration: line-through;
+}
+
+button {
+    color: rgb(256,256,256, 0.8);
+    background: none;
+    border: none;
+    border-radius: 100%;
+    font-size: 1rem;
+}
+
+button:hover {
+    color: red;
+}
+
+button:focus {
+    outline: none;
+}
+
+.hidden {
+    display: none;
+    visibility: hidden;
+}

@@ -1,0 +1,17 @@
+.quote-container {
+    width: 50vw;
+    position: absolute;
+    left: 25%;
+    bottom: 2%;
+}
+
+.quote {
+    font-size: 0.7rem;
+    color: rgb(256, 256, 256, 0.9);
+}
+
+
+.quote-author {
+    font-size: 0.7rem;
+    color: rgb(256, 256, 256, 0.9);
+}

@@ -1,23 +1,25 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
+
+
+import Clock from './Components/Clock/Clock'
+import Greeting from './Components/Greeting/Greeting'
+import Focus from './Components/Focus/Focus'
+import Weather from './Components/Weather/Weather'
+import ToDoList from './Components/ToDo/Todo'
+import Quotes from './Components/Quotes/Quotes'
 
 function App() {
   return (
+    // jsx = javascript xml
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      {/* <h1>Momentum Clone</h1> */}
+      <Clock />
+      <Greeting />
+      <Focus />
+      <Weather />
+      <ToDoList />
+      <Quotes />
     </div>
   );
 }
