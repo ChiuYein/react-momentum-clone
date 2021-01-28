@@ -13,7 +13,15 @@ The purpose of this project is to create a clone of Momentum extension with the 
 *See the weather
 *Inspirational photo and quote each day
 
-The attached image illustrate the homescreen for the cim
-![Momentum Clone](https://imgur.com/a/osQAfAX)
+![Image of Momentum Clone](https://imgur.com/a/osQAfAX)
+
+#Dependencies:
+The following applications need to be installed in order to run the Momentum.clone app.
+*React
+*Axios
+
+#Acknowlegement
+*Unsplash Photos
+  * Photo by 
 
 
