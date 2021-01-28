@@ -14,6 +14,6 @@ The purpose of this project is to create a clone of Momentum extension with the 
 *Inspirational photo and quote each day
 
 The attached image illustrate the homescreen for the cim
-![picture alt](https://imgur.com/a/osQAfAX)
+![Momentum Clone](https://imgur.com/a/osQAfAX)
 
 
