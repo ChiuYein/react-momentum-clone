@@ -15,11 +15,11 @@ The purpose of this project is to create a clone of Momentum extension with the 
 
 ## Dependencies:
 The following applications need to be installed in order to run the Momentum.clone app.
-*React
-*Axios
+* React
+* Axios
 
 ## Acknowlegement
-*Unsplash Photos
+* Unsplash Photos
   * Photo by Clay Banks (https://unsplash.com/photos/u27Rrbs9Dwc)
   * Photo by NOAA (https://unsplash.com/photos/cthDc0hUM0o)
 
