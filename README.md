@@ -2,7 +2,7 @@
 
 This is the final project of me as a student in Software Engineering Immersive Course in General Assembly Malaysia. This application is build with [React](https://reactjs.org/) and will update from time to time.
 
-View live demo here: http://momentum-clone-with-react.surge.sh/
+View live web-based demo here: http://momentum-clone-with-react.surge.sh/
 
 ## About Momentum
 This project is inspire by the Google Chrome Extension named [Momentum](https://momentumdash.com/). It is a custom page that replace new tabs with a page that user can track todo's, check local weather and get inspired with daily photos and quotes. The purpose of this tool is to inspire productivity by helping to eliminate distraction and beat procrastination with todo reminders.
