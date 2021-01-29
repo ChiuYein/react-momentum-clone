@@ -10,8 +10,8 @@ This project is inspire by the Google Chrome Extension named [Momentum](https://
 ## Purpose And Features
 The purpose of this project is to create a clone of Momentum extension with the following features:
 * Keep track of task with Todo list
-* Check the time
-* See the weather
+* See the local time
+* See the local weather
 * Inspirational photo and quote each day
 
 ## Dependencies:
