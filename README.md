@@ -1,6 +1,6 @@
 # Momentum Clone using React
 
-This is the final project of Software Enginner Immersive Course in General Assembly. This application is build with [React](https://reactjs.org/) and will update from time to time.
+This is the final project of me as a student in Software Engineering Immersive Course in General Assembly Malaysia. This application is build with [React](https://reactjs.org/) and will update from time to time.
 
 View live demo here: https://momentum-clone-with-react.surge.sh/
 
