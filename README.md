@@ -5,7 +5,7 @@ This is the final project of me as a student in Software Engineering Immersive C
 View live demo here: https://momentum-clone-with-react.surge.sh/
 
 ## About Momentum
-This project is inspire with the Google Chrome Extension named [Momentum](https://momentumdash.com/). It is a custom page that replace new tabs with a page that user can track todo's, check local weather and get inspired with daily photos and quotes. The purpose of this tool is to inspire productivity by helping to eliminate distraction and beat procrastination with todo reminders.
+This project is inspire by the Google Chrome Extension named [Momentum](https://momentumdash.com/). It is a custom page that replace new tabs with a page that user can track todo's, check local weather and get inspired with daily photos and quotes. The purpose of this tool is to inspire productivity by helping to eliminate distraction and beat procrastination with todo reminders.
 
 ## Purpose And Features
 The purpose of this project is to create a clone of Momentum extension with the following features:
