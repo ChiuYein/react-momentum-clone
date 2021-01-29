@@ -19,6 +19,9 @@ The following applications need to be installed in order to run the Momentum.clo
 * React
 * Axios
 
+## Deployment:
+This project is deployed with [Surge](https://surge.sh/).
+
 ## Acknowlegement
 * Unsplash Photos
   * Photo by Clay Banks (https://unsplash.com/photos/u27Rrbs9Dwc)
